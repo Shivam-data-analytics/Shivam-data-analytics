@@ -54,6 +54,7 @@
 - Excel Dashboard Project
 - Power Pivot + KPI Analysis
 - Market trend analysis
+- ![Dashboard Preview](images/Dashboard_full_view.png)
 
 ### 🤖 Fake Job Posting Detection
 - NLP + Machine Learning Project
