@@ -60,6 +60,7 @@
 - NLP + Machine Learning Project
 - Logistic Regression, Naive Bayes, Random Forest
 - Interactive Power BI Dashboard
+- ![Dashboard Preview](images/Fake_job_Dashboard.png)
 
 ---
 
