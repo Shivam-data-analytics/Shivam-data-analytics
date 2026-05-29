@@ -1,4 +1,7 @@
 # Hi 👋, I'm Shivam Yadav
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF41&size=28&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Power+BI+Dashboard+Developer;Python+%7C+SQL+%7C+Excel+%7C+ML" />
+</p>
 
 ## 🚀 Aspiring Data Analyst | Machine Learning Enthusiast
 
