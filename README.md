@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi 👋, I'm Shivam Yadav
 
-<!--
-**Shivam-data-analytics/Shivam-data-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring Data Analyst | Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+🎓 B.Sc Data Science Graduate  
+📊 Skilled in Excel, SQL, Python & Power BI  
+🤖 Interested in Machine Learning & Analytics  
+📍 Mumbai, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+- Excel
+- SQL
+- Python
+- Power BI
+- Machine Learning
+- Data Cleaning
+- Data Visualization
+
+---
+
+## 📂 Featured Projects
+
+### 📊 Global Data Skills Market Intelligence Dashboard
+- Excel Dashboard Project
+- Power Pivot + KPI Analysis
+- Market trend analysis
+
+### 🤖 Fake Job Posting Detection
+- NLP + Machine Learning Project
+- Logistic Regression, Naive Bayes, Random Forest
+- Interactive Power BI Dashboard
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: YOUR_LINKEDIN
+- GitHub: https://github.com/Shivam-data-analytics
+
+---
+
+## 📈 Currently Learning
+
+- Advanced Power BI
+- Machine Learning
+- Data Analytics Projects
