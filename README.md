@@ -24,8 +24,16 @@
 <img src="https://img.shields.io/badge/MachineLearning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange">
 </p>
 
-
 ---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-yadav-7993a42a5/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shivam-data-analytics)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sy49067@gmail.com)
+
 
 ## 🛠️ Skills
 
