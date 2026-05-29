@@ -34,6 +34,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sy49067@gmail.com)
 
+---
 
 ## 🛠️ Skills
 
@@ -74,3 +75,7 @@
 - Advanced Power BI
 - Machine Learning
 - Data Analytics Projects
+
+---
+
+![](https://komarev.com/ghpvc/?username=Shivam-data-analytics&color=blue)
