@@ -64,8 +64,10 @@
 
 ---
 
-### Education
+## Education
 - Bachelors in Data-Science (Chandrabhan Sharma College of Arts, Science and Commerce)(8.03/10)
+
+---
 
 ## 📫 Connect With Me
 
