@@ -64,6 +64,9 @@
 
 ---
 
+### Education
+- Bachelors in Data-Science (Chandrabhan Sharma College of Arts, Science and Commerce)(8.03/10)
+
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/shivam-yadav-7993a42a5/
