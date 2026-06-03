@@ -72,7 +72,6 @@
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/shivam-yadav-7993a42a5/
-- GitHub: https://github.com/Shivam-data-analytics
 - E-mail: sy49067@gmail.com
 - Phone: +91 7400353445
 
